@@ -1,5 +1,5 @@
 # Neon Portfolio Setup Guide
-# This Project is Created by Palash Jana
+This Project is Created by Palash Jana
 This project is a static neon-themed portfolio. You can open `index.html` directly in a browser, or host the folder on GitHub Pages, Netlify, Vercel static hosting, or any simple web server.
 
 ## Files
@@ -155,6 +155,6 @@ If you want, this can be upgraded next into:
 - a portfolio with a dark neon particle background
 - a version deployed to GitHub Pages automatically
 
-# Project Creadit
-## Creator: Palash Jana
-## Creator GitHib: https://github.com/Palash-Jana
+### Project Creadit
+Creator: Palash Jana
+Creator GitHib: https://github.com/Palash-Jana
